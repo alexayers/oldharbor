@@ -1,7 +1,6 @@
 {
   "name": "oldharbor",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
   "keywords": [],
   "main": "dist/oldharbor.umd.js",
   "module": "dist/oldharbor.es5.js",
@@ -12,7 +11,7 @@
   "author": "Alex Ayers <ayers.alex@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://alexayers@github.com/alexayers/oldharbor.git"
+    "url": "git+https://github.com/alexayers/oldharbor.git"
   },
   "license": "MIT",
   "engines": {
@@ -117,5 +116,14 @@
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.15.0",
     "typescript": "^3.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/alexayers/oldharbor/issues"
+  },
+  "homepage": "https://github.com/alexayers/oldharbor#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
 }
