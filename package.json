@@ -12,7 +12,7 @@
   "author": "Alex Ayers <ayers.alex@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/alexayers/oldharbor.git"
   },
   "license": "MIT",
   "engines": {
